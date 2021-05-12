@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pcl_liwh/yangzheng/recv/faster/cc/benchmark-dir/process_ycsb.cc
+cstdio
+-
+fstream
+-
+iostream
+-
+stdlib.h
+-
+string
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+

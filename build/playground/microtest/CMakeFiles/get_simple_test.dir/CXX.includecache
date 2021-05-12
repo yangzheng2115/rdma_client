@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/microtest/get_simple_test.cpp
+cstdio
+-
+string
+-
+arpa/inet.h
+-
+unistd.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+

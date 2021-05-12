@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -O3 -DNDEBUG -O3 -g  -rdynamic CMakeFiles/process_ycsb.dir/process_ycsb.cc.o  -o ../process_ycsb 

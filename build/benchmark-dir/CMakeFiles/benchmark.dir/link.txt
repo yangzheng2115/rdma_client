@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -O3 -DNDEBUG -O3 -g  -rdynamic CMakeFiles/benchmark.dir/benchmark.cc.o  -o ../benchmark ../libfaster.a -lstdc++fs -luuid -ltbb -lgcc -laio -lm -lstdc++ -lpthread 

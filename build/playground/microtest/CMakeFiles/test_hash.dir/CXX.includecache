@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/microtest/hash.h
+jhash.h
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/microtest/jhash.h
+mhash.h
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/microtest/mhash.h
+
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/microtest/jhash.h
+stdio.h
+-
+stdint.h
+-
+
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/microtest/mhash.h
+stdint.h
+-
+stddef.h
+-
+stdlib.h
+-
+
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/microtest/test_hash.cpp
+hash.h
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/microtest/hash.h
+string.h
+-
+stdio.h
+-
+

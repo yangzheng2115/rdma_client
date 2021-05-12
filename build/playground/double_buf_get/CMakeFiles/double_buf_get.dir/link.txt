@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -O3 -DNDEBUG -O3 -g  -rdynamic CMakeFiles/double_buf_get.dir/double_buf_get.cpp.o  -o ../../double_buf_get -lpthread 

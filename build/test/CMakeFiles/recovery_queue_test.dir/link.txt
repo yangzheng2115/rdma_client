@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -O3 -DNDEBUG -O3 -g  -rdynamic CMakeFiles/recovery_queue_test.dir/recovery_queue_test.cc.o  -o ../recovery_queue_test ../libfaster.a ../lib/libgtest.a -lstdc++fs -luuid -ltbb -lgcc -laio -lm -lstdc++ -lpthread -lpthread 

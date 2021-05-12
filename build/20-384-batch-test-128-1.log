@@ -1,0 +1,8 @@
+worker : 384	port num : 384
+kv_num : 100000000
+data size : 540GB
+port base : 8033
+count:0
+100000000 0
+cannot connect to the server: Connection refused
+connnect error

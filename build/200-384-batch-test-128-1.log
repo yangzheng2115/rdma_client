@@ -1,0 +1,981 @@
+worker : 384	port num : 384
+kv_num : 100000000
+data size : 1080GB
+port base : 8033
+count:100000000
+100000000 100000000
+success 3
+success 4
+success 5
+success 6
+success 7
+success 8
+success 9
+success 10
+success 11
+success 12
+success 13
+success 14
+success 15
+success 16
+success 17
+success 18
+success 19
+success 20
+success 21
+success 22
+success 23
+success 24
+success 25
+success 26
+success 27
+success 28
+success 29
+success 30
+success 31
+success 32
+success 33
+success 34
+success 35
+success 36
+success 37
+success 38
+success 39
+success 40
+success 41
+success 42
+success 43
+success 44
+success 45
+success 46
+success 47
+success 48
+success 49
+success 50
+success 51
+success 52
+success 53
+success 54
+success 55
+success 56
+success 57
+success 58
+success 59
+success 60
+success 61
+success 62
+success 63
+success 64
+success 65
+success 66
+success 67
+success 68
+success 69
+success 70
+success 71
+success 72
+success 73
+success 74
+success 75
+success 76
+success 77
+success 78
+success 79
+success 80
+success 81
+success 82
+success 83
+success 84
+success 85
+success 86
+success 87
+success 88
+success 89
+success 90
+success 91
+success 92
+success 93
+success 94
+success 95
+success 96
+success 97
+success 98
+success 99
+success 100
+success 101
+success 102
+success 103
+success 104
+success 105
+success 106
+success 107
+success 108
+success 109
+success 110
+success 111
+success 112
+success 113
+success 114
+success 115
+success 116
+success 117
+success 118
+success 119
+success 120
+success 121
+success 122
+success 123
+success 124
+success 125
+success 126
+success 127
+success 128
+success 129
+success 130
+success 131
+success 132
+success 133
+success 134
+success 135
+success 136
+success 137
+success 138
+success 139
+success 140
+success 141
+success 142
+success 143
+success 144
+success 145
+success 146
+success 147
+success 148
+success 149
+success 150
+success 151
+success 152
+success 153
+success 154
+success 155
+success 156
+success 157
+success 158
+success 159
+success 160
+success 161
+success 162
+success 163
+success 164
+success 165
+success 166
+success 167
+success 168
+success 169
+success 170
+success 171
+success 172
+success 173
+success 174
+success 175
+success 176
+success 177
+success 178
+success 179
+success 180
+success 181
+success 182
+success 183
+success 184
+success 185
+success 186
+success 187
+success 188
+success 189
+success 190
+success 191
+success 192
+success 193
+success 194
+success 195
+success 196
+success 197
+success 198
+success 199
+success 200
+success 201
+success 202
+success 203
+success 204
+success 205
+success 206
+success 207
+success 208
+success 209
+success 210
+success 211
+success 212
+success 213
+success 214
+success 215
+success 216
+success 217
+success 218
+success 219
+success 220
+success 221
+success 222
+success 223
+success 224
+success 225
+success 226
+success 227
+success 228
+success 229
+success 230
+success 231
+success 232
+success 233
+success 234
+success 235
+success 236
+success 237
+success 238
+success 239
+success 240
+success 241
+success 242
+success 243
+success 244
+success 245
+success 246
+success 247
+success 248
+success 249
+success 250
+success 251
+success 252
+success 253
+success 254
+success 255
+success 256
+success 257
+success 258
+success 259
+success 260
+success 261
+success 262
+success 263
+success 264
+success 265
+success 266
+success 267
+success 268
+success 269
+success 270
+success 271
+success 272
+success 273
+success 274
+success 275
+success 276
+success 277
+success 278
+success 279
+success 280
+success 281
+success 282
+success 283
+success 284
+success 285
+success 286
+success 287
+success 288
+success 289
+success 290
+success 291
+success 292
+success 293
+success 294
+success 295
+success 296
+success 297
+success 298
+success 299
+success 300
+success 301
+success 302
+success 303
+success 304
+success 305
+success 306
+success 307
+success 308
+success 309
+success 310
+success 311
+success 312
+success 313
+success 314
+success 315
+success 316
+success 317
+success 318
+success 319
+success 320
+success 321
+success 322
+success 323
+success 324
+success 325
+success 326
+success 327
+success 328
+success 329
+success 330
+success 331
+success 332
+success 333
+success 334
+success 335
+success 336
+success 337
+success 338
+success 339
+success 340
+success 341
+success 342
+success 343
+success 344
+success 345
+success 346
+success 347
+success 348
+success 349
+success 350
+success 351
+success 352
+success 353
+success 354
+success 355
+success 356
+success 357
+success 358
+success 359
+success 360
+success 361
+success 362
+success 363
+success 364
+success 365
+success 366
+success 367
+success 368
+success 369
+success 370
+success 371
+success 372
+success 373
+success 374
+success 375
+success 376
+success 377
+success 378
+success 379
+success 380
+success 381
+success 382
+success 383
+success 384
+success 385
+success 386
+success 387
+success
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+390600
+199
+success
+success
+port num 0 send bytes:2143859200 recv bytes:2143859200
+port num 1 send bytes:2143820800 recv bytes:2143820800
+port num 2 send bytes:2143779800 recv bytes:2143779800
+port num 3 send bytes:2143799600 recv bytes:2143799600
+port num 4 send bytes:2143820400 recv bytes:2143820400
+port num 5 send bytes:2143813600 recv bytes:2143813600
+port num 6 send bytes:2143863600 recv bytes:2143863600
+port num 7 send bytes:2143808800 recv bytes:2143808800
+port num 8 send bytes:2143895200 recv bytes:2143895200
+port num 9 send bytes:2143834800 recv bytes:2143834800
+port num 10 send bytes:2143825400 recv bytes:2143825400
+port num 11 send bytes:2143834400 recv bytes:2143834400
+port num 12 send bytes:2143844600 recv bytes:2143844600
+port num 13 send bytes:2143857000 recv bytes:2143857000
+port num 14 send bytes:2143869800 recv bytes:2143869800
+port num 15 send bytes:2143838600 recv bytes:2143838600
+port num 16 send bytes:2143887800 recv bytes:2143887800
+port num 17 send bytes:2143908400 recv bytes:2143908400
+port num 18 send bytes:2143819200 recv bytes:2143819200
+port num 19 send bytes:2143818200 recv bytes:2143818200
+port num 20 send bytes:2143776200 recv bytes:2143776200
+port num 21 send bytes:2143823400 recv bytes:2143823400
+port num 22 send bytes:2143832600 recv bytes:2143832600
+port num 23 send bytes:2143884000 recv bytes:2143884000
+port num 24 send bytes:2143891000 recv bytes:2143891000
+port num 25 send bytes:2143833400 recv bytes:2143833400
+port num 26 send bytes:2143794800 recv bytes:2143794800
+port num 27 send bytes:2143805200 recv bytes:2143805200
+port num 28 send bytes:2143895600 recv bytes:2143895600
+port num 29 send bytes:2143841800 recv bytes:2143841800
+port num 30 send bytes:2143726600 recv bytes:2143726600
+port num 31 send bytes:2143907400 recv bytes:2143907400
+port num 32 send bytes:2143843800 recv bytes:2143843800
+port num 33 send bytes:2143827800 recv bytes:2143827800
+port num 34 send bytes:2143888000 recv bytes:2143888000
+port num 35 send bytes:2143865000 recv bytes:2143865000
+port num 36 send bytes:2143810200 recv bytes:2143810200
+port num 37 send bytes:2143869400 recv bytes:2143869400
+port num 38 send bytes:2143829200 recv bytes:2143829200
+port num 39 send bytes:2143845400 recv bytes:2143845400
+port num 40 send bytes:2143837200 recv bytes:2143837200
+port num 41 send bytes:2143755800 recv bytes:2143755800
+port num 42 send bytes:2143852600 recv bytes:2143852600
+port num 43 send bytes:2143840000 recv bytes:2143840000
+port num 44 send bytes:2143849400 recv bytes:2143849400
+port num 45 send bytes:2143860400 recv bytes:2143860400
+port num 46 send bytes:2143787400 recv bytes:2143787400
+port num 47 send bytes:2143857000 recv bytes:2143857000
+port num 48 send bytes:2143804200 recv bytes:2143804200
+port num 49 send bytes:2143804000 recv bytes:2143804000
+port num 50 send bytes:2143846000 recv bytes:2143846000
+port num 51 send bytes:2143801200 recv bytes:2143801200
+port num 52 send bytes:2143913000 recv bytes:2143913000
+port num 53 send bytes:2143800000 recv bytes:2143800000
+port num 54 send bytes:2143862800 recv bytes:2143862800
+port num 55 send bytes:2143858800 recv bytes:2143858800
+port num 56 send bytes:2143921000 recv bytes:2143921000
+port num 57 send bytes:2143777800 recv bytes:2143777800
+port num 58 send bytes:2143808800 recv bytes:2143808800
+port num 59 send bytes:2143920200 recv bytes:2143920200
+port num 60 send bytes:2143766200 recv bytes:2143766200
+port num 61 send bytes:2143870200 recv bytes:2143870200
+port num 62 send bytes:2143854000 recv bytes:2143854000
+port num 63 send bytes:2143895200 recv bytes:2143895200
+port num 64 send bytes:2143844000 recv bytes:2143844000
+port num 65 send bytes:2143881800 recv bytes:2143881800
+port num 66 send bytes:2143818200 recv bytes:2143818200
+port num 67 send bytes:2143845000 recv bytes:2143845000
+port num 68 send bytes:2143816400 recv bytes:2143816400
+port num 69 send bytes:2143832400 recv bytes:2143832400
+port num 70 send bytes:2143859800 recv bytes:2143859800
+port num 71 send bytes:2143866200 recv bytes:2143866200
+port num 72 send bytes:2143830200 recv bytes:2143830200
+port num 73 send bytes:2143845400 recv bytes:2143845400
+port num 74 send bytes:2143778400 recv bytes:2143778400
+port num 75 send bytes:2143841600 recv bytes:2143841600
+port num 76 send bytes:2143820400 recv bytes:2143820400
+port num 77 send bytes:2143799800 recv bytes:2143799800
+port num 78 send bytes:2143893800 recv bytes:2143893800
+port num 79 send bytes:2143872600 recv bytes:2143872600
+port num 80 send bytes:2143813000 recv bytes:2143813000
+port num 81 send bytes:2143742600 recv bytes:2143742600
+port num 82 send bytes:2143798600 recv bytes:2143798600
+port num 83 send bytes:2143786800 recv bytes:2143786800
+port num 84 send bytes:2143889200 recv bytes:2143889200
+port num 85 send bytes:2143860400 recv bytes:2143860400
+port num 86 send bytes:2143843600 recv bytes:2143843600
+port num 87 send bytes:2143788000 recv bytes:2143788000
+port num 88 send bytes:2143892400 recv bytes:2143892400
+port num 89 send bytes:2143859400 recv bytes:2143859400
+port num 90 send bytes:2143846800 recv bytes:2143846800
+port num 91 send bytes:2143813200 recv bytes:2143813200
+port num 92 send bytes:2143886600 recv bytes:2143886600
+port num 93 send bytes:2143827800 recv bytes:2143827800
+port num 94 send bytes:2143802200 recv bytes:2143802200
+port num 95 send bytes:2143866800 recv bytes:2143866800
+port num 96 send bytes:2143821000 recv bytes:2143821000
+port num 97 send bytes:2143853800 recv bytes:2143853800
+port num 98 send bytes:2143821800 recv bytes:2143821800
+port num 99 send bytes:2143826200 recv bytes:2143826200
+port num 100 send bytes:2143855400 recv bytes:2143855400
+port num 101 send bytes:2143858400 recv bytes:2143858400
+port num 102 send bytes:2143841200 recv bytes:2143841200
+port num 103 send bytes:2143816400 recv bytes:2143816400
+port num 104 send bytes:2143872400 recv bytes:2143872400
+port num 105 send bytes:2143795200 recv bytes:2143795200
+port num 106 send bytes:2143903200 recv bytes:2143903200
+port num 107 send bytes:2143846400 recv bytes:2143846400
+port num 108 send bytes:2143782600 recv bytes:2143782600
+port num 109 send bytes:2143870200 recv bytes:2143870200
+port num 110 send bytes:2143830800 recv bytes:2143830800
+port num 111 send bytes:2143781000 recv bytes:2143781000
+port num 112 send bytes:2143870400 recv bytes:2143870400
+port num 113 send bytes:2143855800 recv bytes:2143855800
+port num 114 send bytes:2143813600 recv bytes:2143813600
+port num 115 send bytes:2143830000 recv bytes:2143830000
+port num 116 send bytes:2143780000 recv bytes:2143780000
+port num 117 send bytes:2143829200 recv bytes:2143829200
+port num 118 send bytes:2143831200 recv bytes:2143831200
+port num 119 send bytes:2143916000 recv bytes:2143916000
+port num 120 send bytes:2143824800 recv bytes:2143824800
+port num 121 send bytes:2143827800 recv bytes:2143827800
+port num 122 send bytes:2143823000 recv bytes:2143823000
+port num 123 send bytes:2143807600 recv bytes:2143807600
+port num 124 send bytes:2143818400 recv bytes:2143818400
+port num 125 send bytes:2143813000 recv bytes:2143813000
+port num 126 send bytes:2143820400 recv bytes:2143820400
+port num 127 send bytes:2143842400 recv bytes:2143842400
+port num 128 send bytes:2143869200 recv bytes:2143869200
+port num 129 send bytes:2143826400 recv bytes:2143826400
+port num 130 send bytes:2143845200 recv bytes:2143845200
+port num 131 send bytes:2143807600 recv bytes:2143807600
+port num 132 send bytes:2143867200 recv bytes:2143867200
+port num 133 send bytes:2143795000 recv bytes:2143795000
+port num 134 send bytes:2143867600 recv bytes:2143867600
+port num 135 send bytes:2143835200 recv bytes:2143835200
+port num 136 send bytes:2143834200 recv bytes:2143834200
+port num 137 send bytes:2143833200 recv bytes:2143833200
+port num 138 send bytes:2143857800 recv bytes:2143857800
+port num 139 send bytes:2143831400 recv bytes:2143831400
+port num 140 send bytes:2143830200 recv bytes:2143830200
+port num 141 send bytes:2143858400 recv bytes:2143858400
+port num 142 send bytes:2143821800 recv bytes:2143821800
+port num 143 send bytes:2143828200 recv bytes:2143828200
+port num 144 send bytes:2143870000 recv bytes:2143870000
+port num 145 send bytes:2143859000 recv bytes:2143859000
+port num 146 send bytes:2143827800 recv bytes:2143827800
+port num 147 send bytes:2143839800 recv bytes:2143839800
+port num 148 send bytes:2143866400 recv bytes:2143866400
+port num 149 send bytes:2143968200 recv bytes:2143968200
+port num 150 send bytes:2143853600 recv bytes:2143853600
+port num 151 send bytes:2143888600 recv bytes:2143888600
+port num 152 send bytes:2143871400 recv bytes:2143871400
+port num 153 send bytes:2143818600 recv bytes:2143818600
+port num 154 send bytes:2143844800 recv bytes:2143844800
+port num 155 send bytes:2143894400 recv bytes:2143894400
+port num 156 send bytes:2143848600 recv bytes:2143848600
+port num 157 send bytes:2143876800 recv bytes:2143876800
+port num 158 send bytes:2143776600 recv bytes:2143776600
+port num 159 send bytes:2143882000 recv bytes:2143882000
+port num 160 send bytes:2143860000 recv bytes:2143860000
+port num 161 send bytes:2143794400 recv bytes:2143794400
+port num 162 send bytes:2143774000 recv bytes:2143774000
+port num 163 send bytes:2143820400 recv bytes:2143820400
+port num 164 send bytes:2143821600 recv bytes:2143821600
+port num 165 send bytes:2143803000 recv bytes:2143803000
+port num 166 send bytes:2143868800 recv bytes:2143868800
+port num 167 send bytes:2143849000 recv bytes:2143849000
+port num 168 send bytes:2143829800 recv bytes:2143829800
+port num 169 send bytes:2143749200 recv bytes:2143749200
+port num 170 send bytes:2143782800 recv bytes:2143782800
+port num 171 send bytes:2143848600 recv bytes:2143848600
+port num 172 send bytes:2143835800 recv bytes:2143835800
+port num 173 send bytes:2143834000 recv bytes:2143834000
+port num 174 send bytes:2143931000 recv bytes:2143931000
+port num 175 send bytes:2143886800 recv bytes:2143886800
+port num 176 send bytes:2143814400 recv bytes:2143814400
+port num 177 send bytes:2143876400 recv bytes:2143876400
+port num 178 send bytes:2143802400 recv bytes:2143802400
+port num 179 send bytes:2143860400 recv bytes:2143860400
+port num 180 send bytes:2143792000 recv bytes:2143792000
+port num 181 send bytes:2143864200 recv bytes:2143864200
+port num 182 send bytes:2143858000 recv bytes:2143858000
+port num 183 send bytes:2143853400 recv bytes:2143853400
+port num 184 send bytes:2143854600 recv bytes:2143854600
+port num 185 send bytes:2143826400 recv bytes:2143826400
+port num 186 send bytes:2143783200 recv bytes:2143783200
+port num 187 send bytes:2143875000 recv bytes:2143875000
+port num 188 send bytes:2143914600 recv bytes:2143914600
+port num 189 send bytes:2143760200 recv bytes:2143760200
+port num 190 send bytes:2143799400 recv bytes:2143799400
+port num 191 send bytes:2143879800 recv bytes:2143879800
+port num 192 send bytes:2143804400 recv bytes:2143804400
+port num 193 send bytes:2143877200 recv bytes:2143877200
+port num 194 send bytes:2143850200 recv bytes:2143850200
+port num 195 send bytes:2143857800 recv bytes:2143857800
+port num 196 send bytes:2143755200 recv bytes:2143755200
+port num 197 send bytes:2143832200 recv bytes:2143832200
+port num 198 send bytes:2143783800 recv bytes:2143783800
+port num 199 send bytes:2143838000 recv bytes:2143838000
+port num 200 send bytes:2143846400 recv bytes:2143846400
+port num 201 send bytes:2143853600 recv bytes:2143853600
+port num 202 send bytes:2143898600 recv bytes:2143898600
+port num 203 send bytes:2143864600 recv bytes:2143864600
+port num 204 send bytes:2143850800 recv bytes:2143850800
+port num 205 send bytes:2143854800 recv bytes:2143854800
+port num 206 send bytes:2143883200 recv bytes:2143883200
+port num 207 send bytes:2143812200 recv bytes:2143812200
+port num 208 send bytes:2143833600 recv bytes:2143833600
+port num 209 send bytes:2143867600 recv bytes:2143867600
+port num 210 send bytes:2143876600 recv bytes:2143876600
+port num 211 send bytes:2143834600 recv bytes:2143834600
+port num 212 send bytes:2143871200 recv bytes:2143871200
+port num 213 send bytes:2143799600 recv bytes:2143799600
+port num 214 send bytes:2143780400 recv bytes:2143780400
+port num 215 send bytes:2143823000 recv bytes:2143823000
+port num 216 send bytes:2143842600 recv bytes:2143842600
+port num 217 send bytes:2143782200 recv bytes:2143782200
+port num 218 send bytes:2143775000 recv bytes:2143775000
+port num 219 send bytes:2143867200 recv bytes:2143867200
+port num 220 send bytes:2143881400 recv bytes:2143881400
+port num 221 send bytes:2143892800 recv bytes:2143892800
+port num 222 send bytes:2143885800 recv bytes:2143885800
+port num 223 send bytes:2143819000 recv bytes:2143819000
+port num 224 send bytes:2143814200 recv bytes:2143814200
+port num 225 send bytes:2143836000 recv bytes:2143836000
+port num 226 send bytes:2143821800 recv bytes:2143821800
+port num 227 send bytes:2143779400 recv bytes:2143779400
+port num 228 send bytes:2143907800 recv bytes:2143907800
+port num 229 send bytes:2143845400 recv bytes:2143845400
+port num 230 send bytes:2143840000 recv bytes:2143840000
+port num 231 send bytes:2143827000 recv bytes:2143827000
+port num 232 send bytes:2143874400 recv bytes:2143874400
+port num 233 send bytes:2143858200 recv bytes:2143858200
+port num 234 send bytes:2143828800 recv bytes:2143828800
+port num 235 send bytes:2143844600 recv bytes:2143844600
+port num 236 send bytes:2143811200 recv bytes:2143811200
+port num 237 send bytes:2143863400 recv bytes:2143863400
+port num 238 send bytes:2143815400 recv bytes:2143815400
+port num 239 send bytes:2143812800 recv bytes:2143812800
+port num 240 send bytes:2143873400 recv bytes:2143873400
+port num 241 send bytes:2143803800 recv bytes:2143803800
+port num 242 send bytes:2143821000 recv bytes:2143821000
+port num 243 send bytes:2143813000 recv bytes:2143813000
+port num 244 send bytes:2143791600 recv bytes:2143791600
+port num 245 send bytes:2143907400 recv bytes:2143907400
+port num 246 send bytes:2143876400 recv bytes:2143876400
+port num 247 send bytes:2143812600 recv bytes:2143812600
+port num 248 send bytes:2143830000 recv bytes:2143830000
+port num 249 send bytes:2143867600 recv bytes:2143867600
+port num 250 send bytes:2143844800 recv bytes:2143844800
+port num 251 send bytes:2143840600 recv bytes:2143840600
+port num 252 send bytes:2143859000 recv bytes:2143859000
+port num 253 send bytes:2143842200 recv bytes:2143842200
+port num 254 send bytes:2143796400 recv bytes:2143796400
+port num 255 send bytes:2143865200 recv bytes:2143865200
+port num 256 send bytes:2143902000 recv bytes:2143902000
+port num 257 send bytes:2143829000 recv bytes:2143829000
+port num 258 send bytes:2143857600 recv bytes:2143857600
+port num 259 send bytes:2143865200 recv bytes:2143865200
+port num 260 send bytes:2143863200 recv bytes:2143863200
+port num 261 send bytes:2143843200 recv bytes:2143843200
+port num 262 send bytes:2143807400 recv bytes:2143807400
+port num 263 send bytes:2143768400 recv bytes:2143768400
+port num 264 send bytes:2143843400 recv bytes:2143843400
+port num 265 send bytes:2143927600 recv bytes:2143927600
+port num 266 send bytes:2143838600 recv bytes:2143838600
+port num 267 send bytes:2143835400 recv bytes:2143835400
+port num 268 send bytes:2143818600 recv bytes:2143818600
+port num 269 send bytes:2143888200 recv bytes:2143888200
+port num 270 send bytes:2143889400 recv bytes:2143889400
+port num 271 send bytes:2143856600 recv bytes:2143856600
+port num 272 send bytes:2143890800 recv bytes:2143890800
+port num 273 send bytes:2143832600 recv bytes:2143832600
+port num 274 send bytes:2143838200 recv bytes:2143838200
+port num 275 send bytes:2143788000 recv bytes:2143788000
+port num 276 send bytes:2143859800 recv bytes:2143859800
+port num 277 send bytes:2143853400 recv bytes:2143853400
+port num 278 send bytes:2143942800 recv bytes:2143942800
+port num 279 send bytes:2143803600 recv bytes:2143803600
+port num 280 send bytes:2143837000 recv bytes:2143837000
+port num 281 send bytes:2143792000 recv bytes:2143792000
+port num 282 send bytes:2143872600 recv bytes:2143872600
+port num 283 send bytes:2143820000 recv bytes:2143820000
+port num 284 send bytes:2143867400 recv bytes:2143867400
+port num 285 send bytes:2143809000 recv bytes:2143809000
+port num 286 send bytes:2143798800 recv bytes:2143798800
+port num 287 send bytes:2143892000 recv bytes:2143892000
+port num 288 send bytes:2143866400 recv bytes:2143866400
+port num 289 send bytes:2143856400 recv bytes:2143856400
+port num 290 send bytes:2143870000 recv bytes:2143870000
+port num 291 send bytes:2143822000 recv bytes:2143822000
+port num 292 send bytes:2143822000 recv bytes:2143822000
+port num 293 send bytes:2143831000 recv bytes:2143831000
+port num 294 send bytes:2143822400 recv bytes:2143822400
+port num 295 send bytes:2143760200 recv bytes:2143760200
+port num 296 send bytes:2143851600 recv bytes:2143851600
+port num 297 send bytes:2143793400 recv bytes:2143793400
+port num 298 send bytes:2143802800 recv bytes:2143802800
+port num 299 send bytes:2143850400 recv bytes:2143850400
+port num 300 send bytes:2143885200 recv bytes:2143885200
+port num 301 send bytes:2143765600 recv bytes:2143765600
+port num 302 send bytes:2143833600 recv bytes:2143833600
+port num 303 send bytes:2143899200 recv bytes:2143899200
+port num 304 send bytes:2143737000 recv bytes:2143737000
+port num 305 send bytes:2143831200 recv bytes:2143831200
+port num 306 send bytes:2143828000 recv bytes:2143828000
+port num 307 send bytes:2143815200 recv bytes:2143815200
+port num 308 send bytes:2143824000 recv bytes:2143824000
+port num 309 send bytes:2143853200 recv bytes:2143853200
+port num 310 send bytes:2143819800 recv bytes:2143819800
+port num 311 send bytes:2143799000 recv bytes:2143799000
+port num 312 send bytes:2143831200 recv bytes:2143831200
+port num 313 send bytes:2143788600 recv bytes:2143788600
+port num 314 send bytes:2143851200 recv bytes:2143851200
+port num 315 send bytes:2143825000 recv bytes:2143825000
+port num 316 send bytes:2143865800 recv bytes:2143865800
+port num 317 send bytes:2143852600 recv bytes:2143852600
+port num 318 send bytes:2143889000 recv bytes:2143889000
+port num 319 send bytes:2143745400 recv bytes:2143745400
+port num 320 send bytes:2143858000 recv bytes:2143858000
+port num 321 send bytes:2143922000 recv bytes:2143922000
+port num 322 send bytes:2143806600 recv bytes:2143806600
+port num 323 send bytes:2143849000 recv bytes:2143849000
+port num 324 send bytes:2143901200 recv bytes:2143901200
+port num 325 send bytes:2143855600 recv bytes:2143855600
+port num 326 send bytes:2143866200 recv bytes:2143866200
+port num 327 send bytes:2143846000 recv bytes:2143846000
+port num 328 send bytes:2143814400 recv bytes:2143814400
+port num 329 send bytes:2143886800 recv bytes:2143886800
+port num 330 send bytes:2143890200 recv bytes:2143890200
+port num 331 send bytes:2143835400 recv bytes:2143835400
+port num 332 send bytes:2143833400 recv bytes:2143833400
+port num 333 send bytes:2143820800 recv bytes:2143820800
+port num 334 send bytes:2143832000 recv bytes:2143832000
+port num 335 send bytes:2143845200 recv bytes:2143845200
+port num 336 send bytes:2143797200 recv bytes:2143797200
+port num 337 send bytes:2143849600 recv bytes:2143849600
+port num 338 send bytes:2143827400 recv bytes:2143827400
+port num 339 send bytes:2143826000 recv bytes:2143826000
+port num 340 send bytes:2143872000 recv bytes:2143872000
+port num 341 send bytes:2143818800 recv bytes:2143818800
+port num 342 send bytes:2143894800 recv bytes:2143894800
+port num 343 send bytes:2143821600 recv bytes:2143821600
+port num 344 send bytes:2143766200 recv bytes:2143766200
+port num 345 send bytes:2143845000 recv bytes:2143845000
+port num 346 send bytes:2143858400 recv bytes:2143858400
+port num 347 send bytes:2143809000 recv bytes:2143809000
+port num 348 send bytes:2143880400 recv bytes:2143880400
+port num 349 send bytes:2143879400 recv bytes:2143879400
+port num 350 send bytes:2143829600 recv bytes:2143829600
+port num 351 send bytes:2143853200 recv bytes:2143853200
+port num 352 send bytes:2143863600 recv bytes:2143863600
+port num 353 send bytes:2143899600 recv bytes:2143899600
+port num 354 send bytes:2143783200 recv bytes:2143783200
+port num 355 send bytes:2143788400 recv bytes:2143788400
+port num 356 send bytes:2143851600 recv bytes:2143851600
+port num 357 send bytes:2143820000 recv bytes:2143820000
+port num 358 send bytes:2143894000 recv bytes:2143894000
+port num 359 send bytes:2143771600 recv bytes:2143771600
+port num 360 send bytes:2143867600 recv bytes:2143867600
+port num 361 send bytes:2143891200 recv bytes:2143891200
+port num 362 send bytes:2143793400 recv bytes:2143793400
+port num 363 send bytes:2143854600 recv bytes:2143854600
+port num 364 send bytes:2143828000 recv bytes:2143828000
+port num 365 send bytes:2143824800 recv bytes:2143824800
+port num 366 send bytes:2143805600 recv bytes:2143805600
+port num 367 send bytes:2143893800 recv bytes:2143893800
+port num 368 send bytes:2143786200 recv bytes:2143786200
+port num 369 send bytes:2143846600 recv bytes:2143846600
+port num 370 send bytes:2143809800 recv bytes:2143809800
+port num 371 send bytes:2143869600 recv bytes:2143869600
+port num 372 send bytes:2143899000 recv bytes:2143899000
+port num 373 send bytes:2143862800 recv bytes:2143862800
+port num 374 send bytes:2143792800 recv bytes:2143792800
+port num 375 send bytes:2143857200 recv bytes:2143857200
+port num 376 send bytes:2143818800 recv bytes:2143818800
+port num 377 send bytes:2143896000 recv bytes:2143896000
+port num 378 send bytes:2143849600 recv bytes:2143849600
+port num 379 send bytes:2143809000 recv bytes:2143809000
+port num 380 send bytes:2143851000 recv bytes:2143851000
+port num 381 send bytes:2143821400 recv bytes:2143821400
+port num 382 send bytes:2143797200 recv bytes:2143797200
+port num 383 send bytes:2143893600 recv bytes:2143893600
+
+ ** average runtime : 316283033

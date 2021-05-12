@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -O3 -DNDEBUG -O3 -g  -rdynamic CMakeFiles/simple_test.dir/simple_test.cpp.o CMakeFiles/simple_test.dir/kvobj.cpp.o  -o ../../simple_test -lpthread -levent -levent_core 

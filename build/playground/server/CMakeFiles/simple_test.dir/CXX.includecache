@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/server/kvobj.cpp
+kvobj.h
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/server/kvobj.h
+stdlib.h
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/server/stdlib.h
+assert.h
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/server/assert.h
+string.h
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/server/string.h
+stdio.h
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/server/stdio.h
+
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/server/kvobj.h
+cstdint
+-
+
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/server/simple_test.cpp
+stdio.h
+-
+string
+-
+iostream
+-
+stdlib.h
+-
+string.h
+-
+iostream
+-
+kvobj.h
+/home/pcl_liwh/yangzheng/recv/faster/cc/playground/server/kvobj.h
+

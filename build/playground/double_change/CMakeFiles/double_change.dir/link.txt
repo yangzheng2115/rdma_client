@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -O3 -DNDEBUG -O3 -g  -rdynamic CMakeFiles/double_change.dir/double_micro_test.cpp.o  -o ../../double_change -lpthread 
